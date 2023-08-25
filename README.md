@@ -2,7 +2,7 @@
 Developed by: S.ROSELIN MARY JOVITA
 RegisterNumber:  212222230122
 ```
-## Experiment-02 Implementation of combinational logic 
+## Experiment 02 Implementation of combinational logic 
 
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
@@ -12,7 +12,8 @@ To implement the given logic function verify its operation in Quartus using Veri
  
 ## Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
- Software – Quartus prime
+
+Software – Quartus prime
 
 
 
@@ -41,8 +42,6 @@ The NOT gate is a fundamental digital logic gate. It has a single input and a si
 ```
 /*
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by: S.ROSELIN MARY JOVITA
-RegisterNumber:  212222230122
 
 module DIGITAL2(A,B,C,D,F1);
 input A,B,C,D;
@@ -62,10 +61,7 @@ endmodule
 ![Screenshot 2023-08-25 093154](https://github.com/Roselinjovita/Experiment--02-Implementation-of-combinational-logic-/assets/119104296/b13a1fee-13a4-4b44-b77e-3933033c0a7d)
 
 
-
-
 ## Timing Diagram
-
 
 ![Screenshot 2023-08-25 093222](https://github.com/Roselinjovita/Experiment--02-Implementation-of-combinational-logic-/assets/119104296/d05c94af-0bbf-4da3-ab62-f2e325935343)
 
