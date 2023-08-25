@@ -2,7 +2,7 @@
 Developed by: S.ROSELIN MARY JOVITA
 RegisterNumber:  212222230122
 ```
-## Experiment-02Implementation of combinational logic 
+## Experiment-02 Implementation of combinational logic 
 
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
