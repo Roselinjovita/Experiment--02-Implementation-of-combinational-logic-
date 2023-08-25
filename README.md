@@ -12,7 +12,7 @@ To implement the given logic function verify its operation in Quartus using Veri
 ## Software – Quartus prime
 
 
-## Theory
+
  ## Theory:
 Logic gates are electronic circuits which perform logical functions on one or more inputs to produce one output.
 #### OR Gate:
