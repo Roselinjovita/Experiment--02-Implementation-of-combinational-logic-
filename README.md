@@ -1,6 +1,9 @@
-# Experiment--02-Implementation-of-combinational-logic
-Implementation of combinational logic gates
- 
+```
+Developed by: S.ROSELIN MARY JOVITA
+RegisterNumber:  212222230122
+```
+#Experiment-02Implementation of combinational logic 
+
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
  F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
@@ -8,8 +11,8 @@ To implement the given logic function verify its operation in Quartus using Veri
  
  
 ## Equipments Required:
-## Hardware – PCs, Cyclone II , USB flasher
-## Software – Quartus prime
+Hardware – PCs, Cyclone II , USB flasher
+ Software – Quartus prime
 
 
 
@@ -55,9 +58,6 @@ endmodule
 */
 ```
 
-## RTL realization
-
-## Output:
 ## RTL:
 ![Screenshot 2023-08-25 093154](https://github.com/Roselinjovita/Experiment--02-Implementation-of-combinational-logic-/assets/119104296/b13a1fee-13a4-4b44-b77e-3933033c0a7d)
 
